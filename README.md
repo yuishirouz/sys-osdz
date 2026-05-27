@@ -61,3 +61,15 @@
 Извиняюсь, что записал к сожалению только вывод, сделал по незнанию, тк в прошлом году вывода было достаточно.
 
 Записал user:password и состояние SSH сервера :(
+
+**Задание 3а**
+Реализация кода bash(закосячил среду VB, пришлось делать через Msys2 та же среда Bash):
+<p align="center">
+  <img width="992" height="270" alt="Снимок экрана 2026-05-27 122716" src="https://github.com/user-attachments/assets/08af0a4f-471e-4a0d-b1dd-c77d80e4edbc" />
+</p>
+
+**Задание 3б**
+Реализация того же кода в среде PS:
+<p align="center">
+  <img width="1179" height="802" alt="Снимок экрана 2026-05-27 123719" src="https://github.com/user-attachments/assets/c9a85e8c-fdd1-4d27-892b-6ab752339e5c" />
+</p>
