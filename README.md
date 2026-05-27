@@ -1,24 +1,30 @@
-Лабароторная 1
+**Лабароторная 1**
+
 1)**Объявление функции(factorial.h):**
 <p align="center">
   <img width="286" height="109" alt="image" src="https://github.com/user-attachments/assets/37f4e28a-93f1-4997-ad3b-9346ea61b688" />
 </p>
-2)**Реализация (рекурсивный алгоритм):**
+
+**2)Реализация (рекурсивный алгоритм):**
 <p align="center">
   <img width="306" height="118" alt="image" src="https://github.com/user-attachments/assets/a5bcbcac-2a55-419b-baed-78f141fd990a" />
 </p>
-3)**Последовательный вызов:**
+
+**3)Последовательный вызов:**
 <p align="center">
   <img width="437" height="281" alt="image" src="https://github.com/user-attachments/assets/fa664a16-c084-449f-88dc-180a84f4a2e6" />
 </p>
+
 4)**Параллельный вызов:**
 <p align="center">
   <img width="597" height="742" alt="image" src="https://github.com/user-attachments/assets/99405b66-0e67-4bb8-9d6f-89d8aa36a17f" />
 </p>
+
 5)**Вывод(Параллель и основа):**
 <p align="center">
   <img width="327" height="178" alt="image" src="https://github.com/user-attachments/assets/4bfbbdbe-7130-4b9d-8152-6b1aab964d27" />
 </p>
+
 **Дополнительные вызовы:**
 <table>
   <tr>
@@ -30,6 +36,7 @@
     <td align="center">Доп-вывод2</td>
   </tr>
 </table>
+
 6)**Ассемблерный код без отпимизации:**
 <table>
   <tr>
@@ -41,6 +48,7 @@
     <td align="center">С оптимизацией</td>
   </tr>
 </table>
+
 7)**Makefile**:
 <p align="center">
   <img width="826" height="733" alt="image" src="https://github.com/user-attachments/assets/23a1e87d-21aa-4d0e-ba05-f668d29cbeb5" />
