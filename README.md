@@ -1,4 +1,4 @@
-**Лабароторная 1**
+**Задание 1**
 
 1)**Объявление функции(factorial.h):**
 <p align="center">
@@ -53,3 +53,11 @@
 <p align="center">
   <img width="826" height="733" alt="image" src="https://github.com/user-attachments/assets/23a1e87d-21aa-4d0e-ba05-f668d29cbeb5" />
 </p>
+
+**Задание 2**
+
+*https://cloud.mail.ru/public/d62N/kDLz8nWfk*
+
+Извиняюсь, что записал к сожалению только вывод, сделал по незнанию, тк в прошлом году вывода было достаточно.
+
+Записал user:password и состояние SSH сервера :(
